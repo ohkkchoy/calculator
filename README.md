@@ -32,3 +32,4 @@ _A simple application that adds, subtracts, multiplies and divides numbers Users
 
 N/A
 
+Copyright (c) _2022_ _Karen Choy & Manuel Raygoza_
